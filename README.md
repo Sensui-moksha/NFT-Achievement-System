@@ -1,6 +1,8 @@
 # Aptos NFT Achievement System
 
-A comprehensive full-stack NFT Achievement System built for the Aptos blockchain (Devnet). This project allows users to mint and manage NFT badges for specific accomplishments and milestones across the Aptos ecosystem.
+📘 **Project Description**
+
+A comprehensive full-stack NFT Achievement System built for the Aptos blockchain (Devnet). This project allows users to mint and manage NFT badges for specific accomplishments and milestones across the Aptos ecosystem. It emphasizes user progress, community engagement, and decentralization.
 
 ## 🎯 Features
 
@@ -145,6 +147,16 @@ After deployment, update the contract address in `src/lib/aptos.ts`:
 ```typescript
 export const MODULE_ADDRESS = "0x<your-deployed-address>";
 ```
+
+## 📸 Smart Contract Deployment Proof
+
+✅ **Transaction Hash:** `0x7f1a38f2cdec914d3fc3b201e0560009919046a4fc4acbfdf275fbc57a8f4`  
+✅ **Status:** Success  
+✅ **Function:** `code::publish_package_txn`  
+✅ **Block:** 21773152  
+✅ **Deployed At:** Aug 5, 2025, 14:56:37 UTC
+
+![Aptos Explorer Deployment Screenshot](/transaction-successful.png)
 
 ## 🎮 Usage Guide
 
@@ -370,4 +382,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ for the Aptos ecosystem
+Built with  the Aptos ecosystem by Mokshyagna Yadav
