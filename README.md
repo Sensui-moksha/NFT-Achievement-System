@@ -147,6 +147,8 @@ After deployment, update the contract address in `src/lib/aptos.ts`:
 ```typescript
 export const MODULE_ADDRESS = "0x<your-deployed-address>";
 ```
+## To See front End 
+   `npm run dev`
 
 ## 📸 Smart Contract Deployment Proof
 
@@ -383,3 +385,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with  the Aptos ecosystem by Mokshyagna Yadav
+
